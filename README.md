@@ -7,7 +7,7 @@ readmission rates, and improving overall patient outcomes.
 
 # Key Objectives
 
-**Predictive Analytics:** Forecast readmission probability
-**Risk Stratification:** Identify key risk factors
-**Healthcare Optimization:** Improve resource allocation
-**Clinical Support:** Actionable insights for clinicians
+**Predictive Analytics:** Forecast readmission probability.
+**Risk Stratification:** Identify key risk factors.
+**Healthcare Optimization:** Improve resource allocation.
+**Clinical Support:** Actionable insights for clinicians.
